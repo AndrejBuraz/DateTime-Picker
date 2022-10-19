@@ -1,0 +1,11 @@
+C:\Users\ucenik\Documents\DateTimePickerAndrej\bin\Debug\DateTimePickerAndrej.exe.config
+C:\Users\ucenik\Documents\DateTimePickerAndrej\bin\Debug\DateTimePickerAndrej.exe
+C:\Users\ucenik\Documents\DateTimePickerAndrej\bin\Debug\DateTimePickerAndrej.pdb
+C:\Users\ucenik\Documents\DateTimePickerAndrej\obj\Debug\DateTimePickerAndrej.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\DateTimePickerAndrej\obj\Debug\DateTimePickerAndrej.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\DateTimePickerAndrej\obj\Debug\DateTimePickerAndrej.Form1.resources
+C:\Users\ucenik\Documents\DateTimePickerAndrej\obj\Debug\DateTimePickerAndrej.Properties.Resources.resources
+C:\Users\ucenik\Documents\DateTimePickerAndrej\obj\Debug\DateTimePickerAndrej.csproj.GenerateResource.cache
+C:\Users\ucenik\Documents\DateTimePickerAndrej\obj\Debug\DateTimePickerAndrej.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\DateTimePickerAndrej\obj\Debug\DateTimePickerAndrej.exe
+C:\Users\ucenik\Documents\DateTimePickerAndrej\obj\Debug\DateTimePickerAndrej.pdb
